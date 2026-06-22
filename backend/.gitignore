@@ -1,0 +1,31 @@
+# Dépendances
+node_modules/
+
+# Build
+frontend/dist/
+
+# Base de données
+database/*.db
+
+# Fichiers téléchargés
+downloads/*
+
+# Environnement
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers partiels yt-dlp
+*.part
+*.ytdl
